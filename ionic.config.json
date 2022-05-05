@@ -1,0 +1,7 @@
+{
+  "name": "tecApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
